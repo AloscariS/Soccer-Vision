@@ -17,5 +17,7 @@ The Soccer Vision project applies event captioning methods to soccer matches, ai
 - Detection of players, referee, ball, and key events (corner, penalties, etc.).
 - Recognition of the shot type.
 
+![Screenshot](Media/Screenshot.png)
+
 ### Conclusion
 Considering the restricted resouces we had the Soccer Vision project offers a powerful tool for soccer analysis and coaching, empowering teams to make data-driven decisions and improve performance on the field. With its good capabilities, it opens up new possibilities for understanding and interpreting soccer matches.
